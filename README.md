@@ -14,7 +14,6 @@ The 12 features are:
 11. whether the borrower provides the loan as ,
 12. whether the principal and interest are still owed.
 
-
 The 14 element tags include: 
 
 1. Loan amount,
